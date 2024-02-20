@@ -27,10 +27,10 @@
 <img  alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img  alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img  alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img  alt="Tay-Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img  alt="Tay-Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img  alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
 
 <h2> Habilidades Pessoais: </h2>
-| Proatividade | Trabalho em equipe | Aprendizagem rápida | Organização |<br> | Resolução de Problemas | Flexibilidade | Atenção aos detalhes | Adaptabilidade |
-
+Metodologia SCRUM | Kanban | Proatividade | Trabalho em equipe | Resolução de Problemas |  Aprendizagem Rápida | Organização
+ 
 </div>
