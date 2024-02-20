@@ -1,16 +1,15 @@
-### Hi there 👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
 
-<!--
-**niicsz/niicsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1F1AF7&random=false&width=435&lines=Ol%C3%A1+Sou+Nicolas+Bezerra+Bini+;Analista+de+Suporte+J%C3%BAnior+;Dev+Junior)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+<ul>
+<li>🎓 Análise e Desenvolvimento de Sistemas na USJT - Universidade São Judas Tadeu</li>
+<li>💻 Desenvolvedor Web Front-End</li>
+<li>📚 Entusiasta de tecnologia </li>
+</ul>
