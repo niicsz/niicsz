@@ -17,6 +17,5 @@
 <div>
 <h3>Contate-me</h3>
 <a href = "mailto:nicolasbbini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-<a href="[https://www.linkedin.com/in/tayane-f-milagres-34a992273/](https://www.linkedin.com/in/nicolas-bezerra-bini-9539021b4/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+<a href="https://www.linkedin.com/in/nicolas-bezerra-bini-9539021b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
