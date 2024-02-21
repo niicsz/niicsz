@@ -2,10 +2,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
 
 <div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1F1AF7&random=false&width=435&lines=Ol%C3%A1+Sou+Nicolas+Bezerra+Bini+;Analista+de+Suporte+J%C3%BAnior+;Dev+Junior)](https://git.io/typing-svg)
-  <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 </div>
 
