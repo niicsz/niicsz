@@ -37,7 +37,7 @@
 Metodologia SCRUM | Kanban | Proatividade | Trabalho em equipe | Resolução de Problemas |  Aprendizagem Rápida | Organização
  
 </div>
-
+<br></br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niicsz&layout=compact&show_icons=true&theme=radical)
 
