@@ -44,8 +44,8 @@ Metodologia SCRUM | Kanban | Proatividade | Trabalho em equipe | Resolução de 
  
 </div>
 <br></br>
-
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niicsz&layout=compact&show_icons=true&theme=radical)
-
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
