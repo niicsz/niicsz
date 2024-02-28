@@ -34,6 +34,7 @@
 <div align="center">
   <h2>Estudando:</h2>
   <img  alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img  alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
 
 </div>
 
