@@ -35,6 +35,7 @@
   <h2>Estudando:</h2>
   <img  alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img  alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+  <img  alt="Mysql" height="40" width="40" src="https://github.com/dgpugliese/MySQL-Icon/blob/main/logo-mysql-26353.png">
 
 </div>
 
