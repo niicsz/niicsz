@@ -46,7 +46,9 @@ Metodologia SCRUM | Kanban | Proatividade | Trabalho em equipe | Resolução de 
  
 </div>
 <br></br>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=niicsz&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niicsz&layout=compact&show_icons=true&theme=radical)
 
 
