@@ -34,6 +34,7 @@
   
 <div align="center">
   <h2>Estudando:</h2>
+  <img  alt="C#" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
   <img  alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img  alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
   <img  alt="Mysql" height="40" width="40" src="https://github.com/dgpugliese/MySQL-Icon/blob/main/logo-mysql-26353.png">
@@ -45,11 +46,16 @@
 Metodologia SCRUM | Kanban | Proatividade | Trabalho em equipe | Resolução de Problemas |  Aprendizagem Rápida | Organização
  
 </div>
-<br></br>
+<br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=niicsz&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niicsz&layout=compact&show_icons=true&theme=radical)
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 width=397 align="center" src="https://github-readme-stats.vercel.app/api?username=niicsz&show_icons=true&card_width=50&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niicsz&layout=compact&card_width=50&theme=tokyonight" />
+</a>
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
