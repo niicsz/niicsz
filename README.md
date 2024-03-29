@@ -43,6 +43,12 @@
 
 </div>
 
+<div align="center">
+  <h2>Sistemas Operacionais:</h2>
+  <img  alt="Linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img  alt="Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
+
+</div>
 
 <h2> Habilidades Pessoais: </h2>
 Metodologia SCRUM | Kanban | Proatividade | Trabalho em equipe | Resolução de Problemas |  Aprendizagem Rápida | Organização
