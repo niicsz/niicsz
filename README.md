@@ -45,7 +45,7 @@
 
 <div align="center">
   <h2>Sistemas Operacionais:</h2>
-    <img  alt="Linux" height="40" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dkali%2BLinux&psig=AOvVaw3cR0LekA7ulKpT7wArT9kL&ust=1712168190280000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiMgNyRpIUDFQAAAAAdAAAAABAE">
+    <img  alt="Linux" height="40" width="40" src="">
   <img  alt="Linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img  alt="Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
 
