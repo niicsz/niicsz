@@ -45,7 +45,7 @@
 
 <div align="center">
   <h2>Sistemas Operacionais:</h2>
-    <img  alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/niicsz/Bckup/0f3c20aba7c2233b1cf8658b5b67b15b1dcb03d0/2eYWZzpUXn9beKfcQZYpnNsrvXw.svg?token=ASXHGZPAGKX3UDGZIRQGIVLGBRGSG">
+    <img  alt="Kali-Linux" height="40" width="40" src="https://raw.githubusercontent.com/niicsz/Bckup/d8f6007effe852c3b955124172ec11fdf9ae50aa/2eYXN6gtanLn5exV6ytKVbOoNlT.svg?token=ASXHGZKVB45VG47ILCMDAKTGBRHII">
   <img  alt="Linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img  alt="Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
 
