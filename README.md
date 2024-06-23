@@ -27,8 +27,8 @@
 <img  alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img  alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img  alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img  alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img  alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img  alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img  alt="Mysql" height="40" width="40" src="https://github.com/dgpugliese/MySQL-Icon/blob/main/logo-mysql-26353.png">
 <img  alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  <img  alt="git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
@@ -37,9 +37,7 @@
 <div align="center">
   <h2>Estudando:</h2>
   <img  alt="C#" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
-  <img  alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img  alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
-  <img  alt="Mysql" height="40" width="40" src="https://github.com/dgpugliese/MySQL-Icon/blob/main/logo-mysql-26353.png">
 
 </div>
 
