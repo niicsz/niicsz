@@ -10,7 +10,7 @@
 <br>
 <ul>
 <li>🎓✅ Formado em Desenvolvimento de Sistemas (Técnico) na FITO - Fundação Instituto Tecnológico de Osasco</li>
-<li>🎓 Cursando Análise e Desenvolvimento de Sistemas na USJT - Universidade São Judas Tadeu</li>
+<li>🎓 Cursando Análise e Desenvolvimento de Sistemas na USJT - Universidade São Judas Tadeu 2/4</li>
 <li>💻 Desenvolvedor Júnior</li>
 <li>📚 Entusiasta de tecnologia </li>
 </ul>
