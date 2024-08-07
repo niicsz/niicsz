@@ -29,6 +29,7 @@
 <img  alt="Js" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
 <img  alt="Java" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
   <img  alt="Kotlin" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+  <img  alt="Spring Boot" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
   <img  alt="Mysql" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
  <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
