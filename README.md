@@ -29,14 +29,14 @@
 <img  alt="Js" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
 <img  alt="Java" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
   <img  alt="Kotlin" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  <img  alt="Mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img  alt="Mysql" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
  <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
   
 <div align="center">
   <h2>Estudando:</h2>
-  <img  alt="C#" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
-  <img  alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+  <img  alt="C#" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
+  <img  alt="Python" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
 
 </div>
 
