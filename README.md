@@ -43,8 +43,8 @@
 
 <div align="center">
   <h2>Sistemas Operacionais:</h2>
-  <img  alt="Linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img  alt="Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
+  <img  alt="Linux" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg">
+  <img  alt="Windows" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg">
 
 </div>
 
