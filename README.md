@@ -9,7 +9,7 @@
 
 <br>
 <ul>
-<li>Desenvolvedor Back-End no: </li>
+<li>Desenvolvedor Back-End no: <img alt="Bradesco" height="20" width="20" src ="https://images.app.goo.gl/xoP2eJQpRpv4tU217"></li>
 <li>🎓✅ Formado em Desenvolvimento de Sistemas (Técnico) na FITO - Fundação Instituto Tecnológico de Osasco</li>
 <li>🎓 Cursando Análise e Desenvolvimento de Sistemas na USJT - Universidade São Judas Tadeu 3/5</li>
 <li>💻 Desenvolvedor Júnior</li>
