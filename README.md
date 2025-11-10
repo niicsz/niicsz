@@ -9,7 +9,7 @@
 
 <br>
 <ul>
-<li>Desenvolvedor Back-End no: <img alt="Bradesco" height="20" width="20" src ="https://images.app.goo.gl/xoP2eJQpRpv4tU217"></li>
+<li>Desenvolvedor Back-End no: <img alt="Bradesco" height="20" width="20" src ="https://companieslogo.com/img/orig/BBD-6b19aac5.png?t=1654497020"></li>
 <li>🎓✅ Formado em Desenvolvimento de Sistemas (Técnico) na FITO - Fundação Instituto Tecnológico de Osasco</li>
 <li>🎓 Cursando Análise e Desenvolvimento de Sistemas na USJT - Universidade São Judas Tadeu 3/5</li>
 <li>💻 Desenvolvedor Júnior</li>
@@ -32,6 +32,7 @@
   <img  alt="Kotlin" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img  alt="Spring Boot" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
   <img  alt="Mysql" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+  <img  alt="MongoDB" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
 <img  alt="Azure" height="40" width="40"
 src=https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg>
  <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
