@@ -77,8 +77,9 @@ Sistema de ponto de venda desenvolvido com foco em **pequenos comércios**, busc
 <img alt="SQL Server" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 <img alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-<img alt="Databricks" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg">
 </p>
+
+**Databricks**
 
 ### 🧪 Testing & APIs
 
