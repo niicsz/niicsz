@@ -76,12 +76,11 @@ Sistema de ponto de venda desenvolvido com foco em **pequenos comércios**, busc
 ## 📊 GitHub
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=niicsz&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niicsz&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+
+[![GitHub followers](https://img.shields.io/github/followers/niicsz?label=Followers&style=for-the-badge)](https://github.com/niicsz)
+[![GitHub stars](https://img.shields.io/github/stars/niicsz?affiliations=OWNER&label=Stars&style=for-the-badge)](https://github.com/niicsz?tab=repositories)
+[![GitHub repositories](https://img.shields.io/badge/Repositories-View%20all-181717?style=for-the-badge&logo=github)](https://github.com/niicsz?tab=repositories)
+
 </div>
 
 <br>
