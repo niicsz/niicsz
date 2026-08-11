@@ -41,7 +41,7 @@ Sistema de ponto de venda desenvolvido com foco em **pequenos comércios**, busc
 
 ## 🛠️ Tech Stack
 
-### Backend
+### ☕ Backend
 
 <p>
 <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -51,25 +51,38 @@ Sistema de ponto de venda desenvolvido com foco em **pequenos comércios**, busc
 <img alt="NestJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
 </p>
 
-### Cloud & DevOps
+### 🎨 Frontend
+
+<p>
+<img alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+<img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</p>
+
+### ☁️ Cloud & DevOps
 
 <p>
 <img alt="Azure" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 <img alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<img alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img alt="Podman" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg">
+<img alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img alt="Maven" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
 </p>
 
-### Data & APIs
+### 🗄️ Data
 
 <p>
-<img alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 <img alt="SQL Server" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+<img alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+<img alt="Databricks" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg">
 </p>
 
-**Testing & APIs:** JUnit · Mockito · Swagger/OpenAPI  
-**Data & Platform:** Databricks · Backstage  
-**Agile:** Scrum · Kanban
+### 🧪 Testing & APIs
+
+**JUnit · Mockito · REST APIs · Swagger/OpenAPI**
 
 ---
 
