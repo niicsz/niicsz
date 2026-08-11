@@ -10,8 +10,9 @@
 <ul>
 <li>💻 Junior Software Engineer at <img alt="Bradesco" height="20" width="20" src ="https://companieslogo.com/img/orig/BBD-6b19aac5.png?t=1654497020"> <b>Bradesco</b></li>
 <li>🎓✅ Formado em Desenvolvimento de Sistemas (Técnico) na FITO - Fundação Instituto Tecnológico de Osasco</li>
-<li>🎓 Cursando Análise e Desenvolvimento de Sistemas na USJT - Universidade São Judas Tadeu (Fev 2024 - Mai 2026)</li>
+<li>🎓✅ Formado em Análise e Desenvolvimento de Sistemas na USJT - Universidade São Judas Tadeu</li>
 <li>☁️ 1x Azure Certified (AZ-900)</li>
+<li>🤖 1x GitHub Copilot Certified (GH-300)</li>
 <li>📚 Entusiasta de arquiteturas modernas, integrações robustas e ambientes em nuvem </li>
 </ul>
 
