@@ -90,8 +90,7 @@ Sistema de ponto de venda desenvolvido com foco em **pequenos comércios**, busc
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=niicsz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niicsz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=niicsz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
 </div>
 
