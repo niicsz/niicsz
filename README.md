@@ -97,15 +97,13 @@ Sistema de ponto de venda desenvolvido com foco em **pequenos comércios**, busc
 <img alt="Databricks" height="40" width="40" src="https://cdn.simpleicons.org/databricks" />
 </p>
 
-### 📈 Observabilidade & Resiliência
+### 📈 Observabilidade & Performance
 
 <p>
 <img alt="Prometheus" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
 <img alt="Grafana" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
 <img alt="k6" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k6/k6-original.svg">
 </p>
-
-**Resilience4j · Micrometer**
 
 ### 🧪 Testing
 
@@ -123,8 +121,10 @@ Sistema de ponto de venda desenvolvido com foco em **pequenos comércios**, busc
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=niicsz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niicsz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niicsz&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niicsz&theme=tokyonight" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=niicsz&theme=tokyonight&hide_border=true" />
 
 </div>
 
