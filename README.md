@@ -14,6 +14,7 @@
 
 Sou Software Engineer com experiência em desenvolvimento de sistemas e engenharia de plataformas, atuando com **Java, Spring Boot, Kafka, Azure e ferramentas para desenvolvedores**. Tenho interesse em arquiteturas distribuídas, automação, cloud e construção de soluções escaláveis e confiáveis.
 
+📚 Cursando **MBA em Engenharia de Software — USP**  
 🎓 Formado em **Análise e Desenvolvimento de Sistemas — USJT**  
 🎓 Técnico em **Desenvolvimento de Sistemas — FITO**  
 💻 **Software Engineer @ Bradesco**  
