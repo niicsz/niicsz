@@ -46,17 +46,28 @@ Sistema de ponto de venda desenvolvido com foco em **pequenos comércios**, busc
 <p>
 <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img alt="Spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-<img alt="Kafka" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+<img alt="Hibernate" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg">
 <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img alt="NestJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+<img alt="Swagger" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
+</p>
+
+### 📨 Mensageria
+
+<p>
+<img alt="Kafka" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+<img alt="RabbitMQ" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
 </p>
 
 ### 🎨 Frontend
 
 <p>
-<img alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+<img alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+<img alt="Angular Material" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularmaterial/angularmaterial-original.svg">
+<img alt="RxJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg">
 <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img alt="Sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </p>
 
@@ -64,8 +75,11 @@ Sistema de ponto de venda desenvolvido com foco em **pequenos comércios**, busc
 
 <p>
 <img alt="Azure" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+<img alt="AWS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+<img alt="Terraform" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
 <img alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <img alt="Podman" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg">
+<img alt="GitHub Actions" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg">
 <img alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img alt="Maven" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
@@ -77,12 +91,31 @@ Sistema de ponto de venda desenvolvido com foco em **pequenos comércios**, busc
 <img alt="SQL Server" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 <img alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+<img alt="Redis" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+<img alt="Cassandra" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg">
+<img alt="Flyway" height="40" width="40" src="https://cdn.simpleicons.org/flyway" />
 <img alt="Databricks" height="40" width="40" src="https://cdn.simpleicons.org/databricks" />
 </p>
 
-### 🧪 Testing & APIs
+### 📈 Observabilidade & Resiliência
 
-**JUnit · Mockito · REST APIs · Swagger/OpenAPI**
+<p>
+<img alt="Prometheus" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
+<img alt="Grafana" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
+<img alt="k6" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k6/k6-original.svg">
+</p>
+
+**Resilience4j · Micrometer**
+
+### 🧪 Testing
+
+<p>
+<img alt="JUnit" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
+<img alt="Jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+<img alt="Vitest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg">
+</p>
+
+**Mockito · Testcontainers · WireMock · ArchUnit**
 
 ---
 
